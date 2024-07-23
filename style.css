@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+#topo{
+    width: 1120px;
+    margin: 0 auto;
+
+}
+
+#topo h3{
+    margin: 15px auto;
+    color: red;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    text-shadow: 3px 3px 8px #1E1E1E;
+}
