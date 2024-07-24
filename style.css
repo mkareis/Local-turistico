@@ -75,6 +75,42 @@ header{
     margin: 0 10px;
 }
 
+.texto-explicativo{
+    color: #696969;
+    margin-bottom: 20px;
+}
 
+.corpo p + p{
+    font-weight: 600;
+    margin-bottom: 10px;
+}
 
+ul{
+    margin: 0px 0px 30px 20px;
+    
+}
+.ultimo-texto{
+    border-top: 0.5px solid #cccbcb;
+    padding-top: 30px;
+    text-align: center;
+}
 /*FIM CORPO*/
+/*INICIO RODAPE*/
+footer img{
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: #F5F5F5;
+    position: fixed;
+    left: 30px;
+    bottom: 25px;
+    background-color: ;
+
+}
+
+/*FIM RODAPE*/
