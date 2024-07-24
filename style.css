@@ -7,7 +7,7 @@
 .container{
     margin: 20px auto;
     max-width: 1280px;
-    border: 1px solid red;
+    
 }
 
 .centralizar{
@@ -25,6 +25,10 @@ header div h3{
     padding-bottom: 5px;
 }
 
+img{
+    width: 1280px;
+}
+
 header div h1{
     margin-bottom: 30px;
 }
@@ -34,6 +38,43 @@ header div h1{
     margin: 15px 15px 25px 15px;
 }
 
-
+header{
+    border-bottom: 0.5px solid #cccbcb;
+}
 
 /* FIM TOPO*/
+/*INICIO CORPO*/
+#topo-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 64px 0;
+
+}
+
+#topo-principal  h3{
+    font-size: 16px;
+    color: #E1624F;
+    padding-bottom: 5px;
+}
+
+#topo-principal h1{
+    margin-bottom: 10px;
+    
+}
+
+#topo-principal p{
+    font-size: 16px;
+}
+
+.corpo img{
+    margin-bottom: 20px;
+}
+
+.corpo h2{
+    margin: 0 10px;
+}
+
+
+
+/*FIM CORPO*/
